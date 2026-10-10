@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Radio Marchés du Jour | La Bourse en 5 minutes</title>
+    <link>https://radio-marches-du-jour.pages.dev/</link>
+    <atom:link href="https://mainichi-market-radio.github.io/radio-marches-du-jour/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>fr</language>
+    <copyright>© 2026 MISAWA SI AGENT</copyright>
+    <description><![CDATA[Chaque jour de Bourse, quatre rendez-vous courts : la Bourse de Paris et l'Europe (CAC 40, Euro Stoxx 50, BCE), Wall Street, la Bourse de Tokyo et les marchés chinois. Les chiffres sont des cours de clôture vérifiés auprès de sources publiques. À écouter avant d'aller au bureau.
+
+Contenu fourni à titre purement informatif et pédagogique. Il ne constitue ni un conseil en investissement, ni une recommandation personnalisée d'acheter ou de vendre un instrument financier.
+Émission rédigée avec l'aide d'une IA et lue par des voix de synthèse, après vérification des chiffres. Les deux présentateurs sont des personnages fictifs. Tout investissement en Bourse comporte un risque de perte en capital.]]></description>
+    <itunes:summary>Chaque jour de Bourse, quatre rendez-vous courts : la Bourse de Paris et l&#x27;Europe (CAC 40, Euro Stoxx 50, BCE), Wall Street, la Bourse de Tokyo et les marchés chinois. Les chiffres sont des cours de clôture vérifiés auprès de sources publiques. À écouter avant d&#x27;aller au bureau.
+
+Contenu fourni à titre purement informatif et pédagogique. Il ne constitue ni un conseil en investissement, ni une recommandation personnalisée d&#x27;acheter ou de vendre un instrument financier.
+Émission rédigée avec l&#x27;aide d&#x27;une IA et lue par des voix de synthèse, après vérification des chiffres. Les deux présentateurs sont des personnages fictifs. Tout investissement en Bourse comporte un risque de perte en capital.</itunes:summary>
+    <itunes:author>MISAWA SI AGENT</itunes:author>
+    <itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://mainichi-market-radio.github.io/radio-marches-du-jour/cover.jpg"/>
+    <image><url>https://mainichi-market-radio.github.io/radio-marches-du-jour/cover.jpg</url><title>Radio Marchés du Jour | La Bourse en 5 minutes</title><link>https://radio-marches-du-jour.pages.dev/</link></image>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <managingEditor>shoukai.jp@gmail.com (MISAWA SI AGENT)</managingEditor>
+    <webMaster>shoukai.jp@gmail.com (MISAWA SI AGENT)</webMaster>
+    <itunes:email>shoukai.jp@gmail.com</itunes:email>
+    <podcast:locked owner="shoukai.jp@gmail.com">no</podcast:locked>
+    <lastBuildDate>Sat, 10 Oct 2026 15:20:04 +0900</lastBuildDate>
+
+  </channel>
+</rss>
